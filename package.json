@@ -5,9 +5,8 @@
   "type": "module",
 
   "scripts": {
-    "start": "http-server -p $PORT",
     "dev": "vite",
-    "build": "vite build",
+    "build": "react-scripts build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
@@ -16,7 +15,6 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "http-server":"^0.12.3",
     "@types/react": "^18.2.66",
     "@types/react-dom": "^18.2.22",
     "@vitejs/plugin-react": "^4.2.1",
