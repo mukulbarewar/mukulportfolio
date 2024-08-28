@@ -6,7 +6,7 @@ function About() {
     <section className={styles.container}>
       <div className={styles.info}>
         <h1>About Me</h1>
-        <h2>Full Stack Web Developer MERN</h2>
+        <h2>Full Stack Web Developer MERN With DevOps</h2>
         <div>
           <p className={styles.description}>
             I am Mukul Barewar, a passionate Full Stack Web Developer with
