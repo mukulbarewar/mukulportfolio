@@ -45,7 +45,7 @@ function Hero() {
           <br />
           Barewar
         </h1>
-        <h2>Full Stack Web Developer MERN With DevOps</h2>
+        <h2>Full Stack Developer MERN With DevOps</h2>
         <span>
           <a href="https://twitter.com/" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
