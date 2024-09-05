@@ -24,7 +24,7 @@ function ProjectCard({ src, link, h3, p }) {
               textAlign: "center",
               fontFamily: "Poppins",
               bgColor: "white",
-              border: "1px solid black",
+              border: "2px solid black",
               borderRadius: "10px",
               padding: "10px",
             }}
@@ -32,7 +32,7 @@ function ProjectCard({ src, link, h3, p }) {
           >
             Github
           </button>
-          <button
+          {/* <button
             className="btn btn-color-2 project-btn"
             style={{
               gap: "1rem",
@@ -46,7 +46,7 @@ function ProjectCard({ src, link, h3, p }) {
             onClick={() => "location.href='https://github.com/'"}
           >
             Live Demo
-          </button>
+          </button> */}
         </div>
       </a>
     </div>

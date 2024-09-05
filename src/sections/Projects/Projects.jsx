@@ -15,7 +15,7 @@ function Projects() {
         <ProjectCard
           src={software}
           link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="NodeJS Projec"
+          h3="NodeJS Project"
           p="SignUp Page"
         />
         <ProjectCard
