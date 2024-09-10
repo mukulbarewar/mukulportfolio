@@ -14,13 +14,13 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={software}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/mukulbarewar/Authentication-Authorisation-NodeJS_Project"
           h3="NodeJS Project"
           p="SignUp Page"
         />
         <ProjectCard
           src={software}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/mukulbarewar/unsplash_image_search"
           h3="React Project"
           p="Image Search API"
         />
