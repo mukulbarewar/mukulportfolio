@@ -38,8 +38,8 @@ function Projects() {
         /> <ProjectCard
         src={sql}
         link="https://github.com/mukulbarewar/SQL-Project"
-        h3="FitLift"
-        p="Fitness App"
+        h3="SQL Project"
+        p="SQL Project & Assignment"
       />
       </div>
     </section>
