@@ -37,7 +37,7 @@ function Projects() {
           p="Fitness App"
         /> <ProjectCard
         src={sql}
-        link="https://github.com/Ade-mir/company-landing-page-2"
+        link="https://github.com/mukulbarewar/SQL-Project"
         h3="FitLift"
         p="Fitness App"
       />
