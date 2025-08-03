@@ -61,8 +61,8 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for developing modern MERN web apps for commercial
-          businesses.
+          Passionate MERN Stack Developer building modern, scalable web apps
+          with integrated DevOps solutions for growing businesses.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
