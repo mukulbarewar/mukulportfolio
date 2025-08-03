@@ -1,11 +1,11 @@
-import styles from './ProjectsStyles.module.css';
+import styles from "./ProjectsStyles.module.css";
 // import viberr from '../../assets/viberr.png';
-import software from '../../assets/software.png';
+import software from "../../assets/software.png";
 
-import devops from '../../assets/devops.png';
-import sql from '../../assets/sql.png';
+import devops from "../../assets/devops.png";
+import sql from "../../assets/sql.png";
 // import fitLift from '../../assets/fitlift.png';
-import ProjectCard from '../../common/ProjectCard';
+import ProjectCard from "../../common/ProjectCard";
 
 function Projects() {
   return (
@@ -26,21 +26,22 @@ function Projects() {
         />
         <ProjectCard
           src={devops}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/mukulbarewar/devops-project.git"
           h3="DevOps Project 1"
-          p="Glasses Shop"
+          p="DevOps Lifecycle Automation"
         />
         <ProjectCard
           src={devops}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/mukulbarewar/devops-project.git"
           h3="DevOps Project 2"
-          p="Fitness App"
-        /> <ProjectCard
-        src={sql}
-        link="https://github.com/mukulbarewar/SQL-Project"
-        h3="SQL Project"
-        p="SQL Project & Assignment"
-      />
+          p="Scalable Deployment Pipeline"
+        />
+        <ProjectCard
+          src={sql}
+          link="https://github.com/mukulbarewar/SQL-Project.git"
+          h3="SQL Project"
+          p="SQL Project & Assignment"
+        />
       </div>
     </section>
   );

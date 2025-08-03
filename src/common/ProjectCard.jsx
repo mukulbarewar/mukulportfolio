@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 
 function ProjectCard({ src, link, h3, p }) {
   return (
@@ -7,6 +7,7 @@ function ProjectCard({ src, link, h3, p }) {
         border: "2px solid grey",
         padding: "15px",
         borderRadius: "5px",
+        // overflow: "hidden",
       }}
     >
       <a href={link} target="_blank">

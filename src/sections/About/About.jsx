@@ -9,13 +9,15 @@ function About() {
         <h2>Full Stack Web Developer MERN With DevOps</h2>
         <div>
           <p className={styles.description}>
-            I am Mukul Barewar, a passionate Full Stack Web Developer with
-            expertise in MERN stack and DevOps. With a strong background in
-            creative problem-solving and a proven ability to deliver
-            high-quality software products, I am dedicated to building innovative
-            solutions. I am a continuous learner, always looking to improve my
-            skills and knowledge. Let&apos;s connect and build something amazing
-            together!
+            I’m Mukul Barewar, a Full Stack MERN Developer and DevOps Engineer
+            with over 2 years of experience in building high-performance web
+            applications and automating cloud deployments. I specialize in the
+            MERN stack (MongoDB, Express.js, React.js, Node.js) and DevOps tools
+            like Docker, Kubernetes, Jenkins, and AWS. My work focuses on
+            performance, scalability, and clean architecture—resulting in 40%
+            faster deployments and 99.9% uptime. I’m passionate about delivering
+            reliable, secure, and user-friendly solutions using modern
+            development practices.
           </p>
           <br />
           <div style={{ border: "1px", color: "white" }}>

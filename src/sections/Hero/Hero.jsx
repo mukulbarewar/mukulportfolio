@@ -10,7 +10,7 @@ import githubLight from "../../assets/github-light.svg";
 import githubDark from "../../assets/github-dark.svg";
 import linkedinLight from "../../assets/linkedin-light.svg";
 import linkedinDark from "../../assets/linkedin-dark.svg";
-import CV from "../../assets/cv.pdf";
+import CV from "../../assets/Mukul_Barewar_2yrs_MERN_DevOps_Resume.pdf";
 import { useTheme } from "../../common/ThemeContext";
 
 function Hero() {
@@ -29,7 +29,10 @@ function Hero() {
           src={heroImg}
           className={styles.hero}
           alt="Profile picture of Harris Johnsen"
-          style={{borderRadius:"50%", boxShadow: "0px 0px 10px rgba(0, 0, 0, 0.5)"}}
+          style={{
+            borderRadius: "50%",
+            boxShadow: "0px 0px 10px rgba(0, 0, 0, 0.5)",
+          }}
         />
 
         <img

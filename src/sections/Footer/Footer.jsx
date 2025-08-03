@@ -10,7 +10,7 @@ function Footer() {
       </div>
       <br />
       <p>
-        &copy; 2024 Mukul Barewar. <br />
+        &copy; 2025 Mukul Barewar. <br />
         All rights reserved.
       </p>
     </section>
